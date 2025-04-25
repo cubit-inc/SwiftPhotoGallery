@@ -33,3 +33,5 @@ Carthage
 # Pods/
 /Example/Pods/Pods.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
 /Example/SwiftPhotoGallery.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+
+.swiftpm

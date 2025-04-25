@@ -5,6 +5,8 @@
 //  Created by Justin Vallely on 9/10/15.
 //
 //
+import Foundation
+import UIKit
 
 open class SwiftPhotoGalleryCell: UICollectionViewCell {
 

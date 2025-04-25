@@ -6,7 +6,7 @@
 //
 //
 
-import UIKit.UIGestureRecognizerSubclass
+import UIKit
 
 enum PanDirection {
     case vertical
